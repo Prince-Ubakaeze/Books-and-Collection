@@ -10,7 +10,7 @@ Welcome to my curated repository of **books, articles, guides, and literary coll
 
 1.  **Clone the repository** to your local machine:
     ```bash
-    git clone 
+    git clone https://github.com/Prince-Ubakaeze/Books-and-Collection/tree/main
     ```
 2.  **Navigate** to the specific category folder using your file explorer or terminal.
 3.  **Open the files** using your preferred PDF, EPUB, or Markdown reader.
