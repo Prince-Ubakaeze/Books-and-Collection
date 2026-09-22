@@ -1,26 +1,8 @@
 # 📚 Digital Library & Book Collections
 
-Welcome to my curated repository of **books, articles, guides, and literary collections**. This repository serves as a personal digital library, neatly organized by genre, topic, and author to make finding and reading resources seamless.
-
-## 🗂️ Repository Structure
-
-The repository is organized into the following categories:
-
-*   **`/Computer-Science`**: Programming languages, system design, and software engineering.
-*   **`/Fiction`**: Classic literature, sci-fi, and fantasy novels.
-*   **`/Philosophy`**: Ancient, medieval, and modern philosophical texts.
-*   **`/Self-Improvement`**: Productivity, habit building, and personal finance.
-*   **`/Whitepapers`**: Academic research papers and tech case studies.
+Welcome to my curated repository of **books, articles, guides, and literary collections**. This repository serves as a personal digital library, neatly organized by genre, and author to make finding and reading resources seamless.
 
 ## 📖 Featured Collections
-
-### 💻 Tech & Engineering
-*   *Clean Code* by Robert C. Martin
-*   *Designing Data-Intensive Applications* by Martin Kleppmann
-
-### 🏛️ Philosophy & Thought
-*   *Meditations* by Marcus Aurelius
-*   *Letters from a Stoic* by Seneca
 
 ---
 
@@ -28,7 +10,7 @@ The repository is organized into the following categories:
 
 1.  **Clone the repository** to your local machine:
     ```bash
-    git clone https://github.com
+    git clone https://github.com/Prince-Ubakaeze/Books-and-Collection/tree/main
     ```
 2.  **Navigate** to the specific category folder using your file explorer or terminal.
 3.  **Open the files** using your preferred PDF, EPUB, or Markdown reader.
